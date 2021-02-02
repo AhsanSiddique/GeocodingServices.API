@@ -31,3 +31,25 @@ Use the following command in order to run the SPA application on local machine.
 Use the following Keys in order to stop the SPA application on local machine.
 
 Ctrl + C
+
+# Examples of Addresses
+
+• 2700 Moran Ave.,Bowman Field Airport, Louisville, KY 40205
+
+• 110 Boggs Ln Suite #289, Cincinnati, OH 45246, United States
+
+• 120 Allamanda Drive,Lakeland,FL
+
+• 480 n state st.,garner,IA
+
+• 4508 Beechwood Lake Drive,Naples,FL
+
+• 3975 Plateau Road,Reno,NV
+
+• 25 Driscoll Drive,Framingham,MA
+
+• 276 Western Draemer Drive,Delaware,OH
+
+• 6603 E. 99th Street,Tulsa,OK
+
+• 508 Woods Drive,Columbia,TN
